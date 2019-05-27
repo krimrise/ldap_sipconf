@@ -1,0 +1,45 @@
+[
+    [
+        "1111", 
+        {
+            "telephoneNumber": [
+                "1111"
+            ], 
+            "uid": [
+                "1111"
+            ], 
+            "AstAccountName": [
+                "1111"
+            ], 
+            "AstAccountRegistrationContext": [
+                "Default"
+            ],
+            "AstAccountSecret": [
+                "PaSSwOOrD"
+            ],
+            "AstAccountFullContact": [
+                "1151"
+            ]
+        }
+    ], 
+    [
+        "2222", 
+        {
+            "telephoneNumber": [
+                "2222"
+            ], 
+            "uid": [
+                "2222"
+            ], 
+            "AstAccountName": [
+                "2222"
+            ], 
+            "AstAccountRegistrationContext": [
+                "Default"
+            ], 
+            "AstAccountFullContact": [
+                "2222"
+            ]
+        }
+    ]
+]
