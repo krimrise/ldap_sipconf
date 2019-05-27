@@ -18,7 +18,7 @@ class BaseConfig(object):
     SIP_TEMPLATE_FILENAME = os.path.join(ASTER_SIP_CONF_DIR, TEMPLATE_FILENAME)
     SIP_EMPTY_NUMBER_FILENAME = os.path.join(ASTER_SIP_CONF_DIR, EMPTY_NUMBER_FILENAME)
     
-    BASE_ALL_NUMBER = 'base_empty_number.json'
+    BASE_ALL_NUMBER = 'base_number.json'
     LDAP_SERVER = 'ldaps://example.com'
     LDAP_BASEDN = 'dc=example,dc=com'
     LDAP_USER = 'cn=admin,dc=example,dc=com'
